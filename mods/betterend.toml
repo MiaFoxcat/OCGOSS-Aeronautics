@@ -1,0 +1,8 @@
+name = "Better End"
+filename = "BetterEnd-21.0.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "1005a2f6662f9a76962a6bdabdf108a00ed0396b5dd2173c49c1cbf02ed5891b"
+url = "https://miafoxcat.gay/BetterEnd-21.0.24.jar"

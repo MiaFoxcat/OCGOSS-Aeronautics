@@ -5,7 +5,7 @@ file = "cfadd.bat"
 hash = "c1369900d8eeffb91491ae57dcc198ed1cd0c99d4f9de5e031583834c9dab37d"
 
 [[files]]
-file = "mods/BetterEnd-21.0.24.jar"
+file = "mods/betterend.toml"
 hash = "1005a2f6662f9a76962a6bdabdf108a00ed0396b5dd2173c49c1cbf02ed5891b"
 
 [[files]]
